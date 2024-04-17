@@ -8,7 +8,7 @@
 
 ¡Sumérgete en los patrones y fluctuaciones de vuelos mientras desvelamos el ritmo de los cielos! 🌌🛫🛬.
 
-## Título: Análisis de Patrones de Vuelo en Argentina: Perspectivas Data-Driven
+## Análisis de Patrones de Vuelo en Argentina: Perspectivas Data-Driven
 
 ### Introducción:
 
