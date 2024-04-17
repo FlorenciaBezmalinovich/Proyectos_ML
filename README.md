@@ -90,13 +90,13 @@ A continuación validé mi modelo el cual terminó prediciendo la cantidad de pa
 - Al parecer hay un aumento en la cantidad de personas que salieron del país y no regresaron.
 - Se puede predecir un aproximado de cuántos pasajeros pueden subirse a un avión.
 
-## Recomendaciones y futuras líneas
+### Recomendaciones y futuras líneas
 - Si estás con dudas sobre con qué aerolínea viajar, Aerolíneas Argentinas es la opción recomendable ya que posee la mayor cantidad de vuelos en el territorio nacional.
     - **Pro:** Sus vuelos son los más populares.
     - **Contra:** Al ser un mercado oligopólico con líder dominante y siendo la empresa líder puede imponer reglas que no beneficien a los pasajeros.
 - Para futuras líneas propongo investigar aún más el mercado y agregar una variable que asigne valor de mercado a cada pasajero que viaja en vuelos regulares. Esto permitirá conocer cuál es la cuantía de dinero que se comercializa en el mercado y conocer cuál es el precio que está dispuesto a pagar el pasajero por un boleto de avión.
 
-### BIBLIOGRAFÍA & FUENTES
+## BIBLIOGRAFÍA & FUENTES
 - [Google Colabority con código](https://colab.research.google.com/drive/1f7-zM3WOpKnYBAnIiBzC1iKerb5WCv2A?usp=sharing)
 - [Fuente de datos](https://datos.gob.ar/dataset/transporte-aterrizajes-despegues-procesados-por-administracion-nacional-aviacion-civil-anac)
 - [Visualización de datos](https://datavizcatalogue.com/ES/)
