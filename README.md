@@ -22,8 +22,11 @@ Estoy abierto/a a comentarios, sugerencias y colaboraciones en cualquier proyect
 Cada proyecto estará organizado de la siguiente manera:
 
 Proyecto/
+
 -> Archivos_soporte/ # Carpeta que contiene los conjuntos de datos utilizados.
+
 -> Proyecto_Final/ # Notebooks de Jupyter con el código, análisis y resultados obtenidos.
+
 -> README.md # Documentación detallada del proyecto.
 
 <!--Proyecto_X/
