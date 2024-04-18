@@ -36,10 +36,14 @@ Proyecto/
 ├── README.md # Documentación detallada del proyecto
 └── results/ # Resultados, gráficos y cualquier archivo de salida-->
 
-## Contribuciones
+## ¿Cómo contribuir?
 
-¡Las contribuciones son bienvenidas! Si tienes alguna sugerencia de mejora para alguno de mis proyectos, deseas colaborar en uno nuevo o deseas compartir material, no dudes en abrir un issue o enviar un pull request.
+Si deseas contribuir a esta colección, ¡no dudes en hacerlo! Puedes seguir estos pasos:
 
+1. Haz un fork de este repositorio.
+2. Agrega tus archivos de proyecto o práctica en la carpeta correspondiente.
+3. Realiza un pull request para que podamos revisar y fusionar tus contribuciones.
+   
 ## Contacto
 
 Si deseas contactarme para discutir alguno de los proyectos o colaborar en uno nuevo, puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/florencia-bezmalinovich/) o [enviarme un correo electrónico](florenciabezmalinovich@gmail.com).
