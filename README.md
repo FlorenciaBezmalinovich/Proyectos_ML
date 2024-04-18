@@ -7,7 +7,7 @@ Aquí encontrarás una variedad de proyectos, desde simples ejercicios hasta pro
 
 ## Contenido
 
-- [Proyecto 1: Clasificación de Imágenes con Redes Neuronales Convolucionales (CNN)](proyecto_1/)
+- [Proyecto 1: Seguimiento de vuelos argentinos✈️](https://github.com/FlorenciaBezmalinovich/Proyectos_ML/tree/main/Proyecto_Final_DS)
 <!--- [Proyecto 2: Predicción de Precios de Viviendas utilizando Regresión Lineal](proyecto_2/)
 - [Proyecto 3: Detección de Fraude en Transacciones Financieras con Machine Learning](proyecto_3/)
 - [Proyecto 4: Análisis de Sentimientos en Redes Sociales con Procesamiento de Lenguaje Natural (NLP)](proyecto_4/)-->
@@ -23,11 +23,11 @@ Cada proyecto estará organizado de la siguiente manera:
 
 Proyecto/
 
-=> Archivos_soporte/ # Carpeta que contiene los conjuntos de datos utilizados.
+-> Archivos_soporte/ # Carpeta que contiene los conjuntos de datos utilizados.
 
-=> Proyecto_Final/ # Notebooks de Jupyter con el código, análisis y resultados obtenidos.
+-> Proyecto_Final/ # Notebooks de Jupyter con el código, análisis y resultados obtenidos.
 
-=> README.md # Documentación detallada del proyecto.
+-> README.md # Documentación detallada del proyecto.
 
 <!--Proyecto_X/
 │
