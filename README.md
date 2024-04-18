@@ -8,9 +8,9 @@ Aquí encontrarás una variedad de proyectos, desde simples ejercicios hasta pro
 ## Contenido
 
 - [Proyecto 1: Clasificación de Imágenes con Redes Neuronales Convolucionales (CNN)](proyecto_1/)
-#'- [Proyecto 2: Predicción de Precios de Viviendas utilizando Regresión Lineal](proyecto_2/)
+[^- [Proyecto 2: Predicción de Precios de Viviendas utilizando Regresión Lineal](proyecto_2/)
 - [Proyecto 3: Detección de Fraude en Transacciones Financieras con Machine Learning](proyecto_3/)
-- [Proyecto 4: Análisis de Sentimientos en Redes Sociales con Procesamiento de Lenguaje Natural (NLP)](proyecto_4/)#'
+- [Proyecto 4: Análisis de Sentimientos en Redes Sociales con Procesamiento de Lenguaje Natural (NLP)](proyecto_4/)]
 
 ## Objetivo
 
@@ -23,16 +23,19 @@ Cada proyecto estará organizado de la siguiente manera:
 
 Proyecto/
 │
+
 ├── Archivos_soporte/ # Carpeta que contiene los conjuntos de datos utilizados.
+
 ├── Proyecto_Final/ # Notebooks de Jupyter con el código, análisis y resultados obtenidos.
+
 ├── README.md # Documentación detallada del proyecto.
 
-#'Proyecto_X/
+[^Proyecto_X/
 │
 ├── dataset/ # Carpeta que contiene los conjuntos de datos utilizados
 ├── notebooks/ # Notebooks de Jupyter con el código y análisis
 ├── README.md # Documentación detallada del proyecto
-└── results/ # Resultados, gráficos y cualquier archivo de salida#'
+└── results/ # Resultados, gráficos y cualquier archivo de salida]
 
 ## Contribuciones
 
