@@ -1,4 +1,4 @@
-# Proyectos y Prácticas de Machine Learning🤖
+# Proyectos y prácticas de Machine Learning🤖
 
 ¡Bienvenido/a a mi repositorio de Proyectos de Machine Learning!
 
