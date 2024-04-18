@@ -1,8 +1,8 @@
-# Proyectos y prácticas de Machine Learning🤖
+# Proyectos y prácticas de Python. Machine Learning con Python🤖
 
-¡Bienvenido/a a mi repositorio de Proyectos de Machine Learning!
+¡Bienvenido/a a mi repositorio de proyectos y prácticas de Python y práctica de Machine Learning con Python!
 
-En esta carpeta, compartiré y documentaré todo mi aprendizaje relacionado con Machine Learning (ML). 
+En esta carpeta, compartiré y documentaré todo mi aprendizaje relacionado con Python y Machine Learning. 
 Aquí encontrarás una variedad de proyectos, desde simples ejercicios hasta proyectos más complejos y aplicaciones prácticas asi como también .
 
 ## Contenido
@@ -48,4 +48,4 @@ Si deseas contribuir a esta colección, ¡no dudes en hacerlo! Puedes seguir est
 
 Si deseas contactarme para discutir alguno de los proyectos o colaborar en uno nuevo, puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/florencia-bezmalinovich/) o [enviarme un correo electrónico](florenciabezmalinovich@gmail.com).
 
-¡Gracias por visitar y espero que encuentres útiles mis proyectos de Machine Learning!
+¡Gracias por visitar y espero que encuentres útiles mis proyectos de Python y Machine Learning!
