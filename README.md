@@ -1,4 +1,4 @@
-# Proyectos y prácticas de Python. Machine Learning con Python🤖
+# Proyectos y prácticas de Python🐍. Machine Learning con Python🤖
 
 ¡Bienvenido/a a mi repositorio de proyectos y prácticas de Python y práctica de Machine Learning con Python!
 
