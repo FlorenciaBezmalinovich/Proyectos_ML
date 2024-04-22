@@ -1,7 +1,5 @@
-# 1. Un colegio desea saber que porcentaje de ninios y que porcentaje de ninias hay en el
-	# curso actual. Diseniar un algoritmo para este proposito. Recuerda que para calcular el
-	# porcentaje puedes hacer una regla de 3 simple. El programa debe solicitar al usuario que
-	# ingrese la cantidad total de ninios, y la cantidad total de ninias que hay en el curso
+# 1. Un colegio desea saber que porcentaje de ninios y que porcentaje de ninias hay en el curso actual. Diseniar un algoritmo para este proposito. Recuerda que para calcular el
+# porcentaje puedes hacer una regla de 3 simple. El programa debe solicitar al usuario que ingrese la cantidad total de ninios, y la cantidad total de ninias que hay en el curso
  
 	# DEFINICION DE VARIABLES
 	ninos_cantidad = int()
